@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "project_number": "227487726855",
+    "project_id": "afandina-restaurant2",
+    "storage_bucket": "afandina-restaurant2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227487726855:android:ac3668276136bbedbe59a2",
+        "android_client_info": {
+          "package_name": "com.costa.coffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227487726855-eh2nls7v4r19dfvt1foi76r637ks1nde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5_cOJxy4J0b6NAlhhMJiqwPddkzzwpJE"
+        },
+        {
+          "current_key": "AIzaSyBlmFmnuAH_dbDtq8MyyA8KjzRTH9E1RKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227487726855-eh2nls7v4r19dfvt1foi76r637ks1nde.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "227487726855-qmrtk9odineqmnue46rcdfddl1qov5k5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sixamtech.eFood"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227487726855:android:0adc9becfd34574bbe59a2",
+        "android_client_info": {
+          "package_name": "com.costa.coffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227487726855-eh2nls7v4r19dfvt1foi76r637ks1nde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5_cOJxy4J0b6NAlhhMJiqwPddkzzwpJE"
+        },
+        {
+          "current_key": "AIzaSyBlmFmnuAH_dbDtq8MyyA8KjzRTH9E1RKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227487726855-eh2nls7v4r19dfvt1foi76r637ks1nde.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "227487726855-qmrtk9odineqmnue46rcdfddl1qov5k5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sixamtech.eFood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
